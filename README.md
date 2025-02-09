@@ -42,7 +42,7 @@ TWITTER_EMAIL="your@email.com"
 ## Install dependencies and start your agent
 
 ```bash
-pnpm i && pnpm start
+pnpm install --ignore-scripts && pnpm start
 ```
 Note: this requires node to be at least version 22 when you install packages and run the agent.
 

@@ -2,9 +2,10 @@
   "name": "Eliza",
   "plugins": [],
   "clients": ["twitter"],
-  "modelProvider": "openrouter",
+  "modelProvider": "google",
   "settings": {
-    "secrets": {}
+    "secrets": {},
+    "model": "gemini-2.5-flash"
   },
   "system": "Roleplay and generate interesting on behalf of Eliza.",
   "bio": [

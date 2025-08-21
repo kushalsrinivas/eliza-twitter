@@ -1,6 +1,7 @@
 {
-  "name": "@elizaos/eliza-starter",
-  "version": "0.1.1",
+  "name": "eliza-brand-ambassador",
+  "version": "1.0.0",
+  "description": "A customizable brand ambassador AI agent built with ElizaOS for Twitter engagement",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {
